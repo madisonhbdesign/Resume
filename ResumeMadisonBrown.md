@@ -34,15 +34,22 @@ engineers to understand the team vision and perfect design
 * Conducted interviews and market researching to illustrate
 accessibility opportunities to expand user-base
 
-##Education History
-###Springboard *UX/UI Certification Program*
+## Education History
+### Springboard *UX/UI Certification Program*
 Graduated Jul 2020
-###Loyola Marymount University *Bachelors in Fine Art and Art History*
+### Loyola Marymount University *Bachelors in Fine Art and Art History*
 Graduated May 2017
 
 ## Side Projects
-###Covid Design Relief 
+### Covid Design Relief 
 Helping businesses with design problems during impact of COVID-19
 ### Sustainability Design Research 
 Researching ways UX can improve the sustainability of e-commerce purchases
-###
+
+## Skills
+### Design Knowledge
+*Personas, User Flows/Stories, Design Thinking, Storyboard, Wireframing, Prototyping, Information Architecture, Responsive Web/Mobile Design, Social Media, Messaging, eCommerce, Design Systems/Languages, Material Guidlines/ iOS HIGs, Visual Design/Typ./Color Theory*
+### Research 
+*Competitive Research, Usability Testing, Guerilla Testing, User Interviews, Statistical Analysis, User Surveys, Product Lifecycle*
+### Tools/Design Software
+*Sketch, Adobe XD, Figma, Illustrator, InVision, Google Analytics*
